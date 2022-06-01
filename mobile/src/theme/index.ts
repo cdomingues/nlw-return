@@ -18,5 +18,3 @@ export const theme = {
     medium: 'Inter_500Medium',
   }
 };
-
- 
